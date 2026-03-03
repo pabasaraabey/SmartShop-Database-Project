@@ -53,3 +53,12 @@ To import the MongoDB data:
 4. Click Import Data
 5. Select mongodb_reviews_sample.json
 6. Import as JSON
+## Power BI Dashboard
+
+File: SmartShop_PowerBI_Dashboard.pbix
+
+To view:
+1. Open Power BI Desktop
+2. Open the .pbix file
+3. Ensure data files are loaded (CSV exports if required)
+4. Refresh data if necessary
