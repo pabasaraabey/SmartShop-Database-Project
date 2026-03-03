@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "69a65ae8d9cff0c7449abe4c"
+  },
+  "customer_name": "Nimal Perera",
+  "branch": "Colombo",
+  "product": "Laptop",
+  "rating": 5,
+  "review_text": "Excellent performance and fast delivery!",
+  "review_date": "2025-03-02"
+},
+{
+  "_id": {
+    "$oid": "69a65aefd9cff0c7449abe4e"
+  },
+  "customer_name": "Kavindi Silva",
+  "branch": "Kandy",
+  "product": "Smartphone",
+  "rating": 4,
+  "review_text": "Good quality but battery life can improve.",
+  "review_date": "2025-03-10"
+},
+{
+  "_id": {
+    "$oid": "69a65afbd9cff0c7449abe50"
+  },
+  "customer_name": "Ruwan Fernando",
+  "branch": "Galle",
+  "product": "Headphones",
+  "rating": 3,
+  "review_text": "Sound is okay but not very comfortable.",
+  "review_date": "2025-04-01"
+},
+{
+  "_id": {
+    "$oid": "69a65b0cd9cff0c7449abe52"
+  },
+  "customer_name": "Dilani Jayasinghe",
+  "branch": "Colombo",
+  "product": "Smartwatch",
+  "rating": 5,
+  "review_text": "Very stylish and useful features.",
+  "review_date": "2025-04-12"
+}]
